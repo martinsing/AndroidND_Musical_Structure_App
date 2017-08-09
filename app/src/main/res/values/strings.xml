@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="desc_library">Audio Library Activity: ListView</string>
+    <string name="desc_payment">Payment Activity: options and purchase confirmation</string>
+    <string name="desc_store">Store Activity: Audio for sale</string>
+    <string name="desc_play">Play Activity: Current audio, controls, and next file</string>
+    <string name="go_to_store">Go to Store</string>
+    <string name="Paypal_sandbox_id">APP-80W284485P519543T</string>
+    <string name="desc_paypal">Confirms payment with Paypal. Uses the Paypal API for secure online payments</string>
+    <string name="artist">Artist</string>
+    <string name="album_song_name">Album/Song Name</string>
+</resources>

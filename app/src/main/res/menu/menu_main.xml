@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/store"
+        android:title="@string/go_to_store"
+        android:icon="@drawable/ic_store"
+        app:showAsAction="always" />
+</menu>
