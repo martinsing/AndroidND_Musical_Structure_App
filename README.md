@@ -5,7 +5,7 @@
 ## Android Items
 - Intents
 - Activities
-- Payment API
+- Paypal Payment API
 
 ## Description 
 - Structure of a music player app
